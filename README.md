@@ -1,6 +1,9 @@
 # tevkifat-hesaplama
 Tevkifat hesaplama makinesi. Belirtilen KDV ve tevkifat oranını bağlı olarak KDV dahil toplam tutarı girince tevkifatlı toplam tutarı hesaplayan makine.
+
 İNDİRME LİNKİ:
+
+
 [İndir]
 
  [//]: #
