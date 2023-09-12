@@ -83,6 +83,7 @@
             this.sayitextBox1.Name = "sayitextBox1";
             this.sayitextBox1.Size = new System.Drawing.Size(292, 30);
             this.sayitextBox1.TabIndex = 1;
+            this.sayitextBox1.TextChanged += new System.EventHandler(this.sayitextBox1_TextChanged);
             // 
             // contextMenuStrip1
             // 

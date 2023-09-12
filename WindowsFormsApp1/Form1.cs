@@ -36,6 +36,8 @@ namespace WindowsFormsApp1
                     double carp2 = Convert.ToDouble(textBox2.Text);
                     sayi = carp1 * carp2;
                     sayitextBox1.Text = sayi.ToString();
+                    textBox1.Text=carp1.ToString();
+                    textBox2.Text=carp2.ToString();
                     carp1 = -0;
                     carp2 = -0;
 
@@ -206,6 +208,11 @@ namespace WindowsFormsApp1
                 this.Hide();
             }
         }
+        private void sayitextBox1_TextChanged(object sender, EventArgs e)
+        {
+            textBox1.Text = string.Empty;
+            textBox2.Text = string.Empty;
+        }
 
         private void hERZAMANENÜSTTEToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -241,6 +248,8 @@ namespace WindowsFormsApp1
         {
 
         }
+
+       
 
 
         /*
