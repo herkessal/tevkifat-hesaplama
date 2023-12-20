@@ -8,4 +8,4 @@ Tevkifat hesaplama makinesi. Belirtilen KDV ve tevkifat oranını bağlı olarak
 
  [//]: #
 
-   [İndir]: <https://github.com/herkessal/tevkifat-hesaplama/releases/download/v1.0.0/WindowsFormsApp1.exe>
+   [İndir]: <https://github.com/herkessal/tevkifat-hesaplama/releases/download/v1.0.1/WindowsFormsApp1.exe>
